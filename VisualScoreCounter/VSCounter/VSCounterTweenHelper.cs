@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using static BeatmapSaveDataVersion3.BeatmapSaveData;
 
 namespace VisualScoreCounter.VSCounter
 {
